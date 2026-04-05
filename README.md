@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Krishan 👋
 
-<!--
-**krishankumar63/krishankumar63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Backend-focused Developer (Java, Spring Boot)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* Interested in backend systems and scalable application design
+* Building real-world systems using Java & Spring Boot
+* Exploring system design patterns and distributed systems
+* Currently preparing for Software Engineering roles
+
+---
+
+## 🛠 Tech Stack
+
+* **Languages:** Java
+* **Backend:** Spring Boot, REST APIs
+* **Concepts:** System Design, Rate Limiting, API Design, Databases
+* **Tools:** Git, Maven
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/krishan-kumar-6171b0318
+* Email: [krishankumar812781@gmail.com](mailto:krishankumar812781@gmail.com)
+
+---
+
+⭐ Backend • Systems • Problem Solving
