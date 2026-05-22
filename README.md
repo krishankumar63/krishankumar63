@@ -16,10 +16,10 @@
 
 ## 🛠 Tech Stack
 
-* **Languages:** Java
-* **Backend:** Spring Boot, REST APIs
-* **Concepts:** System Design, Rate Limiting, API Design, Databases
-* **Tools:** Git, Maven
+* **Languages:** Java , Python , JavaScript
+* **Backend:** Spring Boot, REST APIs , RAG
+* ** Databases:** MySQL ,Redis
+* **Tools:** Git, GitHub, Postman, Vercel, Render
 
 ---
 
