@@ -28,12 +28,6 @@
 
 I'm a **2nd-year Information Technology student at AIT Pune** with a deep interest in backend engineering, distributed systems, and full-stack application development.
 
-- 🔧 I build secure, scalable **REST APIs** with **Java & Spring Boot**
-- 🎨 I craft responsive frontends using **React.js & Tailwind CSS**
-- 🗄️ I design and manage databases with **MySQL & Redis**
-- 🐳 Currently exploring **Docker** and **Apache Kafka** for distributed systems
-- 📚 Strengthening foundations in **DSA, OOP, DBMS & Computer Networks**
-- 🎯 Actively preparing for **SDE-1 roles** — open to internships & collaborations
 
 ---
 
